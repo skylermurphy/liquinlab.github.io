@@ -2,7 +2,7 @@
 import {reactive} from 'vue';
 import oboe from 'oboe'; // ajax support
 
-// import newsdata from '../data/news.json'
+
 
 const people = reactive({individuals: []});
 
@@ -10,7 +10,6 @@ oboe('/data/people.json?nocache=' + (new Date()).getTime())  // don't cache the 
   .node('people.*', (entry) => {
     people.individuals.push(entry);
   })
-
 
 
 </script>
@@ -81,8 +80,8 @@ oboe('/data/people.json?nocache=' + (new Date()).getTime())  // don't cache the 
 }
 
 .card-content{
-	padding-left: 5rem;
-	padding-right: 5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
 	
 }
 

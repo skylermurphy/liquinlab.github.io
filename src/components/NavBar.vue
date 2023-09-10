@@ -7,7 +7,6 @@ const showNav = ref(false);
 const router = useRouter();
 const route = useRoute();
 
-console.log(route.path)
 
 function menuAction(path) {
   router.push(path);
@@ -79,6 +78,9 @@ function isRouteActive(path) {
 
   </div>
 </nav>
+<section v-if="route.path != '/'" class="hero">
+  <img class="image" src="src/assets/pattern_line.png" alt="banner" />
+</section>
 
 
 </template>
@@ -89,6 +91,7 @@ function isRouteActive(path) {
   position: sticky;
   top: 0;
   z-index: 1;
+  border-bottom: var(--medium) 1px solid;
 }
 
 
@@ -111,7 +114,4 @@ function isRouteActive(path) {
   font-weight: bold;
 }
 
-.image{
-  height: 60%;
-}
 </style>

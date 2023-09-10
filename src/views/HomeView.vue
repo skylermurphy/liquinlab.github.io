@@ -16,11 +16,11 @@ import News from "../components/News.vue";
                 </div>
             </section> -->
     <br>
-            <p class="title is-size-4">
+            <p class="block title is-size-4">
                 The ELM Lab will be opening its doors at the University of New Hampshire in Fall 2024!
             </p>
             <br>
-            <div class="box is-shadowless">
+            <div class="block">
                 <div class="content has-text-left is-size-custom">
                     Every day, people make new discoveries, large and small. A scientist discovers a new species. A student discovers a new way to solve a math problem. A child discovers what happens when they throw mashed potatoes at the wall. 
                 </div>

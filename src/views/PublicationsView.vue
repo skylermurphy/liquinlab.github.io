@@ -122,8 +122,8 @@ const GoTo = function(url){
 
 .button{
     margin-bottom: 5px;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 2px;
+    margin-right: 2px;
     padding: 0.5rem;
     font-size: 0.8rem;
     background-color: var(--light);
