@@ -1,0 +1,367 @@
+{
+    "peer-reviewed": [
+            {
+            "title":  "Teaching and learning through pedagogical environment design",
+            "authors": "Liquin, E. G., Luzuriaga, N. & Gureckis, T. M.",
+            "journal": "Proceedings of the 45th Annual Conference of the Cognitive Science Society",
+            "year": "2023",
+            "abstract": "People often rely on knowledgeable teachers to help them learn. Sometimes, this teaching is direct: teachers provide instructions, examples, demonstrations, or feedback. But other times, teaching is more subtle: teachers construct the physical environment in which a learner explores. In the present research, we investigate this more subtle form of teaching in an artificial grid-based learning environment. How do people construct the physical environment to teach, and how does the (pedagogical) design of the physical environment affect people's learning? Study 1 shows that people pursue multiple approaches to pedagogical environment design. Study 2 shows that learners make systematic, often accurate inferences from pedagogically designed environments, even in the absence of exploration. Together, these studies add to our understanding of the myriad ways in which experts communicate their knowledge to novices—a capacity that is part of what makes human intelligence unique.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://escholarship.org/uc/item/9xq3w7rc"
+                },
+                {
+                    "name": "OSF",
+                    "url": "https://osf.io/7s2ey/"
+                }
+            ],
+            "full_citation": "Liquin, E. G., Luzuriaga, N., & Gureckis, T. M. (2023). Teaching and learning through pedagogical environment design. In M. Goldwater, F. Anggoro, B. Hayes, & D. Ong (Eds.) <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society.</i> Cognitive Science Society.",
+            "feature": "f3",
+            "authors_short": "Liquin et al."
+            },
+            {
+            "title":  "Explanation is effective because it is selective",
+            "authors": "Lombrozo, T. & Liquin, E. G.",
+            "journal": "Current Directions in Psychological Science",
+            "year": "2023",
+            "abstract": "Humans are avid explainers: We ask “why?” and derive satisfaction from a good answer. But humans are also selective explainers: Only some observations prompt us to ask “why?” and only some answers are satisfying. This article reviews recent work on selectivity in explanation-seeking curiosity and explanatory satisfaction, with a focus on how this selectivity makes us effective learners in a complex world. Research finds that curiosity about the answer to a “why” question is stronger when it is expected to yield useful learning and that explanations are judged more satisfying when they are perceived to support useful learning. Although such perceptions are imperfect, there is nonetheless evidence that seeking and evaluating explanations—in the selective way humans do—can play an important role in learning.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://journals.sagepub.com/doi/10.1177/09637214231156106"
+                }
+            ],
+            "full_citation": "Lombrozo, T. & Liquin, E. G. (2023). Explanation is effective because it is selective. <i>Current Directions in Psychological Science, 32</i>(3), 212–219."
+           },
+           {
+            "title":  "Minimally counterintuitive stimuli trigger greater curiosity than merely improbable stimuli",
+            "authors": "Lewry, C., Gorucu, S., Liquin, E. G. & Lombrozo, T.",
+            "journal": "Cognition",
+            "year": "2023",
+            "abstract": "Curiosity plays a key role in directing learning throughout the lifespan. Prior work finds that violations of expectations can be powerful triggers of curiosity in both children and adults, but it is unclear which expectation-violating events induce the greatest curiosity and how this might vary over development. Some theories have suggested a U-shaped function such that stimuli of moderate extremity pique the greatest curiosity. However, expectation-violations vary not only in degree, but in kind: for example, some things violate an intuitive theory (e.g., an alligator that can talk) and others are merely unlikely (e.g., an alligator hiding under your bed). Combining research on curiosity with distinctions posited in the cognitive science of religion, we test whether minimally counterintuitive (MCI) stimuli, which involve one violation of an intuitive theory, are especially effective at triggering curiosity. We presented adults (N = 77) and 4- and 5-year-olds (N = 36) in the United States with stimuli that were ordinary, unlikely, MCI, and very counterintuitive (VCI) and asked which one they would like to learn more about. Adults and 5-year-olds chose Unlikely over Ordinary and MCI over Unlikely, but not VCI over MCI, more often than chance. Our results suggest that (i) minimally counterintuitive stimuli trigger greater curiosity than merely unlikely stimuli, (ii) surprisingness has diminishing returns, and (iii) sensitivity to surprisingness increases with age, appearing in our task by age 5.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://www.sciencedirect.com/science/article/pii/S0010027722002748"
+                },
+                {
+                    "name": "preprint",
+                    "url": "https://psyarxiv.com/3b65z"
+                },
+                {
+                    "name": "OSF",
+                    "url": "https://osf.io/sqm5c/"
+                }
+            ],
+            "full_citation": "Lewry, C., Gorucu, S., Liquin, E. G., & Lombrozo, T. (2023). Minimally counterintuitive stimuli trigger greater curiosity than merely improbable stimuli. <i>Cognition, 230</i>, 105286.",
+            "feature": "f1",
+            "authors_short": "Lewry et al."
+           },
+           {
+            "title":  "Where questions come from: Reusing old questions in new situations",
+            "authors": "Liquin, E. G., & Gureckis, T. M.",
+            "journal": "Proceedings of the 44th Annual Conference of the Cognitive Science Society",
+            "year": "2022",
+            "abstract": "Question asking is a powerful means by which humans learn. However, asking a question requires searching through a massive space of possible questions to find a single question that is relevant and informative. How do humans efficiently accomplish this task? Drawing on prior research on other decision problems, we propose that the search for new questions is constrained by those encountered in the past, so that people frequently reuse questions (or parts of questions) rather than generating new questions \"from scratch.\" We find empirical support for this prediction, and we find that this \"question reuse\" has consequences for the informational value of people's questions. Taken together, this research sheds new light on the mechanisms behind human question asking abilities and, more generally, how we narrow down a large space of possibilities to find a single solution.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://escholarship.org/uc/item/09q36684"
+                }
+            ],
+            "full_citation": "Liquin, E. G. & Gureckis, T. M. (2022). Where questions come from: Reusing old questions in new situations. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.) <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>. Cognitive Science Society."
+           },
+           {
+            "title":  "The development of creative search strategies",
+            "authors": "Hart, Y., Kosoy, E., Liquin, E. G., Leonard, J. A., Mackey, A. P., & Gopnik, A.",
+            "journal": "Cognition",
+            "year": "2022",
+            "abstract": "How does creativity develop? Creativity is a multi-faceted behavior and thus it is difficult to find measures for creativity that are both precise and comparable across development. Here, we examine the development of creativity using a “creative foraging” task. The task measures different facets of creativity which we compare between 4- to 8-year-old children and adults. We find that compared to adults, children spend a higher percentage of their search exploring, and their exploitation phases are less efficient. Moreover, children orient their search to a different and smaller region of the search space, but within that space they produce more unique creative products. Lastly, as children grow up, their creative products become more adult-like and their uniqueness decreases. Together, these results suggest that creative search changes across development, in the search strategy employed, in how the space of possibilities is navigated, and in what ideas are ultimately chosen.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://www.sciencedirect.com/science/article/pii/S0010027722000907"
+                },
+                {
+                    "name": "preprint",
+                    "url": "https://psyarxiv.com/dhwmn/"
+                }
+            ],
+            "full_citation": "Hart, Y., Kosoy, E., Liquin, E. G., Leonard, J. A., Mackey, A. P., & Gopnik, A. (2022). The development of creative search strategies. <i>Cognition, 225</i>, 105102.",
+            "feature": "f2",
+            "authors_short": "Hart et al."
+           },
+           {
+            "title":  "Motivated to learn: An account of explanatory satisfaction",
+            "authors": "Liquin, E. G. & Lombrozo, T.",
+            "journal": "Cognitive Psychology",
+            "year": "2022",
+            "abstract": "Many explanations have a distinctive, positive phenomenology: receiving or generating these explanations feels satisfying. Accordingly, we might expect this feeling of explanatory satisfaction to reinforce and motivate inquiry. Across five studies, we investigate how explanatory satisfaction plays this role: by motivating and reinforcing inquiry quite generally (“brute motivation” account), or by selectively guiding inquiry to support useful learning about the target of explanation (“aligned motivation” account). In Studies 1–2, we find that satisfaction with an explanation is related to several measures of perceived useful learning, and that greater satisfaction in turn predicts stronger curiosity about questions related to the explanation. However, in Studies 2–4, we find only tenuous evidence that satisfaction is related to actual learning, measured objectively through multiple-choice or free recall tests. In Study 4, we additionally show that perceptions of learning fully explain one seemingly specious feature of explanatory preferences studied in prior research: the preference for uninformative “reductive” explanations. Finally, in Study 5, we find that perceived learning is (at least in part) causally responsible for feelings of satisfaction. Together, these results point to what we call the “imperfectly aligned motivation” account: explanatory satisfaction selectively motivates inquiry towards learning explanatory information, but primarily through fallible perceptions of learning. Thus, satisfaction is likely to guide individuals towards lines of inquiry that support perceptions of learning, whether or not individuals actually are learning.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://www.sciencedirect.com/science/article/pii/S0010028521000761"
+                },
+                {
+                    "name": "OSF",
+                    "url": "https://osf.io/hf3cj/"
+                }
+            ],
+            "full_citation": "Liquin, E. G. & Lombrozo, T. (2022). Motivated to learn: An account of explanatory satisfaction. <i>Cognitive Psychology, 132</i>, 101453."
+           },
+           {
+            "title":  "Children are more exploratory and learn more than adults in an approach-avoid task",
+            "authors": "Liquin, E. G. & Gopnik, A.",
+            "journal": "Cognition",
+            "year": "2022",
+            "abstract": "Intuitively, children appear to be more exploratory than adults, and this exploration seems to help children learn,. However, there have been few clear tests of these ideas. We test whether exploration and learning change across development using a task that presents a “learning trap.” In this task, exploitation—maximizing immediate reward and avoiding costs—may lead the learner to draw incorrect conclusions, while exploration may lead to better learning but be more costly. In Studies 1, 2, and 3 we find that preschoolers and early school-aged children explore more than adults and learn the true structure of the environment better. Study 3 demonstrates that children explore more than adults even though they, like adults, predict that exploration will be costly, and it shows that exploration and learning are correlated. Study 4 shows that children's and adults' learning depends on the evidence they generate during exploration: children exposed to adult-like evidence learn like adults, and adults exposed to child-like evidence learn like children. Together, these studies support the idea that children may be more exploratory than adults, and this increased exploration influences learning.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://www.sciencedirect.com/science/article/pii/S0010027721003632"
+                },
+                {
+                    "name": "OSF",
+                    "url": "https://osf.io/m3h6u/"
+                }
+            ],
+            "full_citation": "Liquin, E. G. & Gopnik, A. (2022). Children are more exploratory and learn more than adults in an approach-avoid task. <i>Cognition, 218</i>, 104940.",
+            "feature": "f2",
+            "authors_short": "Liquin & Gopnik"
+           },
+           {
+            "title":  "Developmental change in what elicits curiosity",
+            "authors": "Liquin, E. G., Callaway, F., & Lombrozo, T.",
+            "journal": "Proceedings of the 43rd Annual Conference of the Cognitive Science Society",
+            "year": "2021",
+            "abstract": "Across the lifespan, humans direct their learning towards information they are curious to know. However, it is unclear what elicits curiosity, and whether and how this changes across development. Is curiosity triggered by surprise and uncertainty, as prior research suggests, or by expected learning, which is often confounded with these features? In the present research, we use a Bayesian reinforcement learning model to quantify and disentangle surprise, uncertainty, and expected learning. We use the resulting model-estimated features to predict curiosity ratings from 5- to 9-year-olds and adults in an augmented multi-armed bandit task. Like adults’ curiosity, children’s curiosity was best predicted by expected learning. However, after accounting for expected learning, children (but not adults) were also more curious when uncertainty was higher and surprise lower. This research points to developmental changes in what elicits curiosity and calls for a reexamination of research that confounds these elicitors.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://escholarship.org/uc/item/43g7m167"
+                }
+            ],
+            "full_citation": "Liquin, E. G., Callaway, F., & Lombrozo, T. (2021). Developmental change in what elicits curiosity. In T. Fitch, C. Lamm, H. Leder, & K. Teßmar-Raible (Eds.), <i>Proceedings of the 43rd Annual Conference of the Cognitive Science Society</i>. (pp. 1360-1366). Cognitive Science Society.",
+            "feature": "f2",
+            "authors_short": "Liquin et al."
+           },
+           {
+            "title":  "Quantifying curiosity: A formal approach to dissociating causes of curiosity",
+            "authors": "Liquin, E. G., Callaway, F., & Lombrozo, T.",
+            "journal": "Proceedings of the 42nd Annual Conference of the Cognitive Science Society",
+            "year": "2020",
+            "abstract": "Curiosity motivates exploration and is beneficial for learning, but curiosity is not always experienced when facing the unknown. In the present research, we address this selectivity: what causes curiosity to be experienced under some circumstances but not others? Using a Bayesian reinforcement learning model, we disentangle four possible influences on curiosity that have typically been confounded in previous research: surprise, local uncertainty/expected information gain, global uncertainty, and global expected information gain. In two experiments, we find that backward-looking influences (concerning beliefs based on prior experience) and forward-looking influences (concerning expectations about future learning) independently predict reported curiosity, and that forward-looking influences explain the most variance. These findings begin to disentangle the complex environmental features that drive curiosity.",
+            "link": "https://cogsci.mindmodeling.org/2020/papers/0059/0059.pdf",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://cogsci.mindmodeling.org/2020/papers/0059/0059.pdf"
+                }
+            ],
+            "full_citation": "Liquin, E. G., Callaway, F. & Lombrozo, T. (2020). Quantifying curiosity: A formal approach to dissociating causes of curiosity. In S. Denison., M. Mack, Y. Xu, & B. C. Armstrong (Eds.), <i>Proceedings of the 42nd Annual Conference of the Cognitive Science Society</i> (pp. 309-315). Cognitive Science Society.",
+            "feature": "f1",
+            "authors_short": "Liquin et al."
+           },
+           {
+            "title":  "Science demands explanation, religion tolerates mystery",
+            "authors": "Liquin, E. G., Metz, S. E., & Lombrozo, T.",
+            "journal": "Cognition",
+            "year": "2020",
+            "abstract": "Some claims (e.g., that the Earth goes around the Sun) seem to call out for explanation: they make us wonder “why?”. For other claims (e.g., that God exists), one might accept that the explanation is a mystery. In the present research, we investigate “need for explanation” and “mystery acceptability” across the domains of science and religion, as a window onto differences between scientific and religious cognition more broadly. In Study 1, we find that scientific “why” questions are judged to be in greater need of explanation and less adequately answered by appeals to mystery than religious “why” questions. Moreover, this holds for both religious believers and non-believers. In Study 2, we find that these domain differences persist after statistically controlling for confidence in the premises of scientific and religious \"why\" questions (e.g., that “the Earth goes around the Sun” and that “there is a God”). In Study 3, we match levels of confidence within-participants, and we find that domain differences in need for explanation and mystery acceptability are systematically related to domain differences in epistemic commitments (whether an explanation is within human comprehension, whether the same explanation is true for everyone) and explanatory norms (whether an explanation should be pursued), which could signal domain differences in epistemic and social functions, respectively. Together, these studies shed light on the role of explanatory inquiry across domains, and point to different functional roles for scientific and religious cognition.",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0010027720302171",
+            "links":[
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://www.sciencedirect.com/science/article/pii/S0010027720302171"
+                },
+                {
+                    "name": "OSF",
+                    "url": "https://osf.io/cdy8q/"
+                }
+            ],
+            "full_citation": "Liquin, E. G., Metz, S. E., & Lombrozo, T. (2020). Science demands explanation, religion tolerates mystery. <i>Cognition, 204</i>, 104398."
+           },
+           {
+            "title":  "Explanation-seeking curiosity in childhood",
+            "authors": "Liquin, E. G. & Lombrozo, T.",
+            "journal": "Current Opinion in Behavioral Sciences",
+            "year": "2020",
+            "abstract": "Children are known for asking \"why?\" — a query motivated by their desire for explanations. Research suggests that explanation-seeking curiosity (ESC) is triggered by first-person cues (such as novelty or surprise), third-person cues (such as a knowledgeable adults’ surprise or question), and future-oriented cues (such as expectations about information gain or future value). Once triggered, ESC is satisfied by an adequate explanation, typically obtained through causal intervention or question asking, both of which change in efficiency over development. ESC is an important driver of children’s learning because it combines the power of active learning and intrinsic motivation with the value of explanatory content, which can reveal the unobservable and causal structure of the world to support generalizable knowledge.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://www.sciencedirect.com/science/article/pii/S2352154620300851"
+                }
+            ],
+            "full_citation": "Liquin, E. G., & Lombrozo, T. (2020). Explanation-seeking curiosity in childhood. <i>Current Opinion in Behavioral Sciences, 35</i>, 14-20."
+           },
+           {
+            "title":  "A functional approach to explanation-seeking curiosity",
+            "authors": "Liquin, E. G. & Lombrozo, T.",
+            "journal": "Cognitive Psychology",
+            "year": "2020",
+            "abstract": "Why do some (and only some) observations prompt people to ask “why?” We propose a functional approach to “Explanation-Seeking Curiosity” (ESC): the state that motivates people to seek an explanation. If ESC tends to prompt explanation search when doing so is likely to be beneficial, we can use prior work on the functional consequences of explanation search to derive “forward-looking” candidate triggers of ESC—those that concern expectations about the downstream consequences of pursuing explanation search. Across three studies (N = 867), we test hypotheses derived from this functional approach. In Studies 1–3, we find that ESC is most strongly predicted by expectations about future learning and future utility. We also find that judgments of novelty, surprise, and information gap predict ESC, consistent with prior work on curiosity; however, the role for forward-looking considerations is not reducible to these factors. In Studies 2–3, we find that predictors of ESC form three clusters, expectations about learning (about the target of explanation), expectations about export (to other cases and future contexts), and backward-looking considerations (having to do with the relationship between the target of explanation and prior knowledge). Additionally, these clusters are consistent across stimulus sets that probe ESC, but not fact-seeking curiosity. These findings suggest that explanation-seeking curiosity is aroused in a systematic way, and that people are not only sensitive to the match or mismatch between a given stimulus and their current or former beliefs, but to how they expect an explanation for that stimulus to improve their epistemic state.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://www.sciencedirect.com/science/article/pii/S0010028520300050"
+                },
+                {
+                    "name": "OSF",
+                    "url": "https://osf.io/mh8xf/"
+                }
+            ],
+            "full_citation": "Liquin, E. G., & Lombrozo, T. (2020). A functional approach to explanation-seeking curiosity. <i>Cognitive Psychology, 119</i>, 101276.",
+            "feature": "f1",
+            "authors_short": "Liquin & Lombrozo"
+           },
+           {
+            "title": "Inquiry, theory-formation, and the phenomenology of explanation",
+            "authors": "Lombrozo, T. & Liquin, E. G.",
+            "journal": "Proceedings of the 41st Annual Conference of the Cognitive Science Society",
+            "year": "2019",
+            "abstract": "Explanations not only increase understanding; they are often deeply satisfying. In the present research, we explore how this phenomenological sense of “explanatory satisfaction” relates to the functional role of explanation within the process of inquiry. In two studies, we address the following questions: 1) Does explanatory satisfaction track the epistemic, learning-directed features of explanation? and 2) How does explanatory satisfaction relate to both antecedent and subsequent curiosity? In answering these questions, we uncover novel determinants of explanatory satisfaction and contribute to the broader literature on explanation and inquiry.",
+            "links":[
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://cogsci.mindmodeling.org/2019/papers/0132/0132.pdf"
+                }
+            ],
+            "full_citation": "Liquin, E. G. & Lombrozo, T. (2019). Inquiry, theory-formation, and the phenomenology of explanation. In A. K. Goel, C. M. Seifert, & C. Freksa (Eds.), <i>Proceedings of the 41st Annual Conference of the Cognitive Science Society</i> (pp. 664-670). Cognitive Science Society."
+           },
+           {
+            "title":  "Structure-function fit underlies the evaluation of teleological explanations",
+            "authors": "Liquin, E. G. & Lombrozo, T.",
+            "journal": "Cognitive Psychology",
+            "year": "2018",
+            "abstract": "Teleological explanations, which appeal to a function or purpose (e.g., “kangaroos have long tails for balance”), seem to play a special role within the biological domain. We propose that such explanations are compelling because they are evaluated on the basis of a salient cue: structure-function fit, or the correspondence between a biological feature’s form (e.g., tail length) and its function (e.g., balance). Across five studies with 852 participants in total, we find support for three predictions that follow from this proposal. First, we find that function information decreases reliance on mechanistic considerations when evaluating explanations (Experiments 1–3), indicating the presence of a salient, function-based cue. Second, we demonstrate that structure-function fit is the best candidate for this cue (Experiments 3–4). Third, we show that scientifically-unwarranted teleological explanations are more likely to be accepted under speeded and unspeeded conditions when they are high in structure-function fit (Experiment 5). Experiment 5 also finds that structure-function fit extends beyond biology to teleological explanations in other domains. Jointly, these studies provide a new account of how teleological explanations are evaluated and why they are often (but not universally) compelling.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://www.sciencedirect.com/science/article/pii/S001002851730419X"
+                },
+                {
+                    "name": "OSF",
+                    "url": "https://osf.io/x3q9v/"
+                }
+            ],
+            "full_citation": "Liquin, E. G. & Lombrozo, T. (2018). Structure-function fit underlies the evaluation of teleological explanations. <i>Cognitive Psychology, 107</i>, 22-43."
+           },
+           {
+            "title":  "Explanation and its limits: Mystery and the need for explanation in science and religion",
+            "authors": "Liquin, E. G., Metz, S. E., & Lombrozo, T.",
+            "journal": "Proceedings of the 40th Annual Conference of the Cognitive Science Society",
+            "year": "2018",
+            "abstract": "Both science and religion offer explanations for everyday events, but they differ with respect to their tolerance for mysteries. In the present research, we investigate laypeople’s perceptions about the extent to which religious and scientific questions demand an explanation and the extent to which an appeal to mystery can satisfy that demand. In Study 1, we document a large domain difference between science and religion: scientific questions are judged to be more in need of explanation and less appropriately answered by appeal to mystery than religious questions. In Study 2, we demonstrate that these differences are not driven by differing levels of belief in the content of these domains. While the source of these domain differences remains unclear, we propose several hypotheses in the General Discussion.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://cogsci.mindmodeling.org/2018/papers/0393/0393.pdf"
+                }
+            ],
+            "full_citation": "Liquin, E. G., Metz, S. E., & Lombrozo, T. (2018). Explanation and its limits: Mystery and the need for explanation in science and religion. In T. T. Rogers, M. Rau, X. Zhu, & C. W. Kalish (Eds.), <i>Proceedings of the 40th Annual Conference of the Cognitive Science Society</i> (pp. 2065-2070). Cognitive Science Society."
+           },
+           {
+            "title": "Determinants and consequences of the need for explanation",
+            "authors": "Liquin, E. G. & Lombrozo, T.",
+            "journal": "Proceedings of the 40th Annual Conference of the Cognitive Science Society",
+            "year": "2018",
+            "abstract": "Much of human learning throughout the lifespan is achieved through seeking and generating explanations. However, very little is known about what triggers a learner to seek an explanation. In two studies, we investigate what makes a given event or phenomenon stand in need of explanation. In Study 1, we show that a learner’s judgment of “need for explanation” for a given question predicts that learner’s likelihood of seeking an answer to this question. In Study 2, we explore several potential predictors of need for explanation. We find that the need for explanation is greater for questions expected to have useful answers that require expert understanding, and that “need for explanation” can be differentiated from general curiosity.",
+            "links":[
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://cogsci.mindmodeling.org/2018/papers/0148/0148.pdf"
+                }
+            ],
+            "full_citation": "Liquin, E. G. & Lombrozo, T. (2018). Determinants and consequences of the need for explanation. In T. T. Rogers, M. Rau, X. Zhu, & C. W. Kalish (Eds.), <i>Proceedings of the 40th Annual Conference of the Cognitive Science Society</i> (pp. 696-701). Cognitive Science Society."
+           },
+           {
+            "title":  "Explain, explore, exploit: Effects of explanation on information search",
+            "authors": "Liquin, E. G. & Lombrozo, T.",
+            "journal": "Proceedings of the 39th Annual Conference of the Cognitive Science Society",
+            "year": "2017",
+            "abstract": "How does actively seeking explanations for one’s observations affect information search over the course of learning? Generating explanations could plausibly lead learners to take advantage of the information they have already obtained, resulting in less exploration. Alternatively, explaining could lead learners to explore more, especially after encountering evidence that suggests their current beliefs are incorrect. In two experiments using a modified observe or bet task, we investigate these possibilities and find support for the latter: participants who are prompted to explain their observations in the course of learning tend to explore more, especially after encountering evidence that challenges a current belief.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://cogsci.mindmodeling.org/2017/papers/0493/paper0493.pdf"
+                }
+            ],
+            "full_citation": "Liquin, E. G. & Lombrozo, T. (2017). Explain, explore, exploit: Effects of explanation on information search. In G. Gunzelmann, A. Howes, T. Tenbrink, & E. J. Davelaar (Eds.), <i>Proceedings of the 39th Annual Conference of the Cognitive Science Society</i> (pp. 2598-2603). Cognitive Science Society."
+           }
+           
+    ],
+    "preprints" : [
+
+    ]
+        
+}
