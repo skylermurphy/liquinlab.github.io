@@ -26,7 +26,7 @@
         },
         {
             "name": "You?",
-            "bio": "We are accepting applications for PhD students for Fall 2024! If you are interested in joining the lab, please <a href='/join'>visit this page</a> for more information.",
+            "bio": "We are accepting applications for PhD students for Fall 2024! If you are interested in joining the lab, please <router-link to='/join'>visit this page</router-link> for more information.",
             "img": "anonymous.png",
             "links": [
             ]

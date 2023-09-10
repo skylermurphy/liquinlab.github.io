@@ -1,6 +1,5 @@
 node_modules
 .DS_Store
-dist
 dist-ssr
 *.local
 /.firebase
@@ -8,3 +7,4 @@ dist-ssr
 __pycache__
 /.vscode
 /geckodriver.log
+src/.DS_Store
