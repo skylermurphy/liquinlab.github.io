@@ -12,5 +12,12 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
+  },
+  build: {
+    rollupOptions: {
+      input: {
+        404: "public/404.html",
+      },
+    },
   }
 })

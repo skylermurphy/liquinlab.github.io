@@ -1,7 +1,7 @@
 <script setup>
 import {reactive} from 'vue';
 import oboe from 'oboe'; // ajax support
-
+// comment
 // import newsdata from '../data/news.json'
 
 const news = reactive({newsitems: []});
