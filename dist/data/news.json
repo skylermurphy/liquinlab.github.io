@@ -2,7 +2,7 @@
     "news": [
         {
             "date": "September 2023",
-            "content": "We're accepting PhD applications! <router-link to='/join'>Learn more here</router-link>."
+            "content": "We're accepting PhD applications! <a href='/join'>Learn more here</a>."
         },
         {
             "date": "August 2023",

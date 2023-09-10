@@ -79,7 +79,7 @@ function isRouteActive(path) {
   </div>
 </nav>
 <section v-if="route.path != '/'" class="hero">
-  <img class="image" src="src/assets/pattern_line.png" alt="banner" />
+  <img class="image" src="../assets/pattern_line.png" alt="banner" />
 </section>
 
 
