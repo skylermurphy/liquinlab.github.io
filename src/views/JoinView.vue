@@ -41,7 +41,7 @@ const ExpandRa = function(){
       <div class="card">
         <header class="card-header is-shadowless" @click="ExpandPhd()">
           <p class="card-header-title is-size-3">
-            Ph.D. Students&#8212;currently recruiting!
+            Ph.D. students&#8212;currently recruiting!
           </p>
           <button class="card-header-icon" aria-label="more options">
             <span class="icon">
@@ -178,7 +178,7 @@ const ExpandRa = function(){
       <div class="card">
         <header class="card-header  is-shadowless" @click="ExpandRa()" >
           <p class="card-header-title is-size-3">
-            Undergraduate Students
+            Undergraduate students
           </p>
           <button class="card-header-icon" aria-label="more options">
             <span class="icon">

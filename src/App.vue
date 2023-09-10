@@ -12,14 +12,14 @@ const route = useRoute();
 
 <template>
   <NavBar />
-  <section v-if="route.path == '/'" class="hero">
-    <img class="image" src="./assets/pattern_banner_superthin.png" alt="banner" />
-  </section>
+  <!-- <section v-if="route.path == '/'" class="hero">
+    <img class="image" src="./assets/pattern_leaves.png" alt="banner" />
+  </section> -->
 
   <MainLogo v-if="route.path == '/'" />
-  <section v-if="route.path == '/'" class="hero">
-    <img class="image" src="./assets/pattern_banner_superthin.png" alt="banner" />
-  </section>
+  <!-- <section v-if="route.path == '/'" class="hero">
+    <img class="image" src="./assets/pattern_leaves.png" alt="banner" />
+  </section> -->
 
   
   <RouterView />

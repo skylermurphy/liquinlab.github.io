@@ -17,7 +17,7 @@ oboe('/data/news.json?nocache=' + (new Date()).getTime())  // don't cache the js
 
 <template>
     <div class = "title">
-        Lab News
+        Lab news
     </div>
     
     <div v-for="i in news.newsitems" class="has-text-left is-size-custom">

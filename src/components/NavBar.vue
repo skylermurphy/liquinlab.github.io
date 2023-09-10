@@ -78,9 +78,10 @@ function isRouteActive(path) {
 
   </div>
 </nav>
-<section v-if="route.path != '/'" class="hero">
+
+<!-- <section v-if="route.path != '/'" class="hero">
   <img class="image" src="../assets/pattern_line.png" alt="banner" />
-</section>
+</section> -->
 
 
 </template>
@@ -91,7 +92,6 @@ function isRouteActive(path) {
   position: sticky;
   top: 0;
   z-index: 1;
-  border-bottom: var(--medium) 1px solid;
 }
 
 
