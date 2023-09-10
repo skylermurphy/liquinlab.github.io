@@ -1,0 +1,37 @@
+{
+    "people": [
+        {
+            "name": "Emily Liquin",
+            "bio": "I am the Principal Investigator of the ELM Lab, and an incoming Assistant Professor in the University of New Hampshire Department of Psychology (starting Fall 2024). I'm interested in understanding how people control their own learning by being curious, asking questions, and exploring. Outside of the lab, I enjoy hiking, reading, and trying new cookie recipes.",
+            "img": "EL.jpg",
+            "links": [
+                {
+                    "name": "website",
+                    "url": "http://emilyliquin.com/"
+                },
+                {
+                    "name": "cv",
+                    "url": "http://emilyliquin.com/files/Liquin_CV_website.pdf"
+                },
+                {
+                    "name": "twitter",
+                    "url": "https://twitter.com/emilyliquin"
+                },
+                {
+                    "name": "email",
+                    "url": "mailto:emily.liquin@nyu.edu"
+                }
+            ]
+
+        },
+        {
+            "name": "You?",
+            "bio": "We are accepting applications for PhD students for Fall 2024! If you are interested in joining the lab, please <a href='/join'>visit this page</a> for more information.",
+            "img": "anonymous.png",
+            "links": [
+            ]
+
+        }
+    ]
+        
+}
