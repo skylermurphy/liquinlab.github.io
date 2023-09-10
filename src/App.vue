@@ -108,6 +108,14 @@ a:active {
 }
 
 
+/* 767 is max for mobile */    
+@media screen and (max-width: 767px) {
+      .page {
+         margin-left: 5%;
+          margin-right: 5%;
+      }
+    } 
+
 
 .footer-content{
     margin-left: 10%;
