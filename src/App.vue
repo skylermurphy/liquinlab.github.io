@@ -21,6 +21,8 @@ const route = useRoute();
     <img class="image" src="./assets/pattern_leaves.png" alt="banner" />
   </section> -->
 
+  <div v-if="route.path == '/'" class="zigzag"></div>
+
   
   <RouterView />
   <!-- <footer class="footer">
@@ -129,6 +131,17 @@ a:active {
     margin-top: 0px;
 }
 
+.zigzag{
+  height: 14px;
+  width: 100%;
+  background:  
+  linear-gradient(135deg, white 35%, transparent 25%) -7px 0,
+  linear-gradient(225deg, white 35%, transparent 25%) -7px 0,
+  linear-gradient(315deg, white 35%, transparent 25%),
+  linear-gradient(45deg, white 35%, transparent 25%);	
+  background-size: 14px 14px;
+  background-color: var(--main-green);
+}
 
 
 </style>
