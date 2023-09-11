@@ -56,7 +56,7 @@ const GoTo = function(url){
             <div class="columns">
 
                 <div class="column is-1">
-                    <div v-if="i.first">
+                    <div v-if="i.first" class="has-text-weight-bold">
                         {{ i.year }}
                     </div>
                 </div>

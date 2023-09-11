@@ -40,7 +40,7 @@ const ExpandRa = function(){
 
       <div class="card">
         <header class="card-header is-shadowless" @click="ExpandPhd()">
-          <p class="card-header-title is-size-3">
+          <p class="card-header-title is-size-4 has-text-left">
             Ph.D. students&#8212;currently recruiting!
           </p>
           <button class="card-header-icon" aria-label="more options">
@@ -113,7 +113,7 @@ const ExpandRa = function(){
               </div>
               <div class="content has-text-left is-size-custom">
                 <ul>
-                  <li><a href="https://www.psychresearchlist.com/grad-school.html" target="_blank">Dr. Meltem Yucel's PsychResearchList</a> (compiled list of resources for applying to graduate school, info sessions, etc.)</li> 
+                  <li><a href="https://www.psychresearchlist.com/grad-school.html" target="_blank">Dr. Meltem Yucel's PsychResearchList</a> (compiled list of resources for applying to graduate school)</li> 
                   <li><a href="https://www.cientificolatino.com/" target="_blank">Científico Latino</a> (mentorship program for graduate school applicants from minoritized backgrounds; also has many resources, tips, and example applications available online)</li> 
                   <li><a href="https://www.asfp.io/" target="_blank">Application Statement Feedback Program</a> (program that provides fast, constructive feedback on graduate school application statements)</li> 
                   <li><a href="https://www.plasticityinneurodevelopmentlab.com/resourcesforresearchers" target="_blank">Northeastern PINE Lab's resources</a> (compiled list of resources for researchers at all career stages)</li> 
@@ -128,7 +128,7 @@ const ExpandRa = function(){
 
       <div class="card">
         <header class="card-header  is-shadowless" @click="ExpandPostdoc()">
-          <p class="card-header-title is-size-3">
+          <p class="card-header-title is-size-4 has-text-left">
             Postdocs
           </p>
           <button  class="card-header-icon" aria-label="more options">
@@ -153,7 +153,7 @@ const ExpandRa = function(){
 
       <div class="card">
         <header class="card-header  is-shadowless" @click="ExpandLabman()">
-          <p class="card-header-title is-size-3">
+          <p class="card-header-title is-size-4  has-text-left">
             Lab managers
           </p>
           <button  class="card-header-icon" aria-label="more options">
@@ -177,7 +177,7 @@ const ExpandRa = function(){
 
       <div class="card">
         <header class="card-header  is-shadowless" @click="ExpandRa()" >
-          <p class="card-header-title is-size-3">
+          <p class="card-header-title is-size-4  has-text-left">
             Undergraduate students
           </p>
           <button class="card-header-icon" aria-label="more options">

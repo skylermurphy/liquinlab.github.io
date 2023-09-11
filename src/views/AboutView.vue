@@ -39,7 +39,7 @@ oboe('/data/publications.json?nocache=' + (new Date()).getTime())  // don't cach
             The goal of our research is to understand the cognitive, computational, and developmental mechanisms underlying learning and discovery. 
             We are especially interested in understanding how humans play an <i>active role</i> in guiding their own learning.
             For example, people pursue their curiosity. They ask questions. They try out new ideas. 
-            At its core, our research asks: How do people's active learning strategies help them learn new things? And why do we sometimes fail to learn?
+            At its core, our research asks: How do these active learning strategies help people learn new things? And why do we sometimes fail to learn?
         </div>
 
         <div class="content has-text-left is-size-custom">

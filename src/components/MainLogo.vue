@@ -5,8 +5,14 @@
 <style scoped>
 .logo {
     padding: 20px;
-    margin-left: 10%;
-    margin-right: 10%;
-    width:60%
+    width: 65%;
 }
+
+/* 767 is max for mobile */    
+@media screen and (max-width: 767px) {
+      .logo {
+        padding: 20px;
+        width: 100%;
+      }
+    } 
 </style>

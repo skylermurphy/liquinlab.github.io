@@ -97,6 +97,7 @@ oboe('/data/people.json?nocache=' + (new Date()).getTime())  // don't cache the 
 .tag{
     margin-right: 10px;
     background-color: var(--light);
+    margin-bottom: 5px;
 }
 
 .is-size-custom{

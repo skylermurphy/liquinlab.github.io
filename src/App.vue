@@ -20,9 +20,10 @@ const route = useRoute();
   <!-- <section v-if="route.path == '/'" class="hero">
     <img class="image" src="./assets/pattern_leaves.png" alt="banner" />
   </section> -->
-
-  <div v-if="route.path == '/'" class="zigzag"></div>
-
+  <div v-if="route.path == '/'" class="container1">
+</div>
+<div v-if="route.path == '/'" class="container2">
+</div>
   
   <RouterView />
   <!-- <footer class="footer">
@@ -61,8 +62,7 @@ const route = useRoute();
 
 hr{
         background-color: var(--main-green);
-        opacity: 0.5;
-        height: 2px;
+        height: 1.5px;
         border: none;
         
     }
@@ -131,17 +131,35 @@ a:active {
     margin-top: 0px;
 }
 
-.zigzag{
-  height: 14px;
-  width: 100%;
-  background:  
-  linear-gradient(135deg, white 35%, transparent 25%) -7px 0,
-  linear-gradient(225deg, white 35%, transparent 25%) -7px 0,
-  linear-gradient(315deg, white 35%, transparent 25%),
-  linear-gradient(45deg, white 35%, transparent 25%);	
-  background-size: 14px 14px;
-  background-color: var(--main-green);
+.container1 {
+  background: white;
 }
-
+.container1:after {
+    background: linear-gradient(-45deg, var(--main-green) 7px, transparent 0), linear-gradient(45deg, var(--main-green) 7px, transparent 0);
+    background-position: left-bottom;
+    background-repeat: repeat-x;
+    background-size: 14px 14px;
+    content: " ";
+    display: block;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 14px;
+}
+.container2 {
+    margin-top: -12px;
+}
+.container2:after {
+    background: linear-gradient(-45deg, white 7px, transparent 0), linear-gradient(45deg, white 7px, transparent 0);
+    background-position: left-bottom;
+    background-repeat: repeat-x;
+    background-size: 14px 14px;
+    content: " ";
+    display: block;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 14px;
+}
 
 </style>
