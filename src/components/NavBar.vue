@@ -25,10 +25,10 @@ function isRouteActive(path) {
     
 <nav class="navbar is-size-5" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" @click="menuAction('/')">
+    <a class="navbar-item is-lab-name" @click="menuAction('/')">
       <!-- <img src="../assets/treeicon-big.png" alt="logo" /> -->
       <div v-if="route.path != '/'" class="content is-size-4 label">
-        &nbsp; ELM Lab
+        ELM Lab
       </div>
       
     </a>
@@ -107,6 +107,10 @@ function isRouteActive(path) {
   color: var(--link-color);
   border-bottom: var(--link-color) 0px solid;
   border-top: var(--link-color) 0px solid;
+}
+
+.is-lab-name:hover {
+  color: var(--link-color);
 }
 
 .navbar-item.is-selected {
