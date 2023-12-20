@@ -1,5 +1,24 @@
 {
     "peer-reviewed": [
+        {
+            "title":  "Distinct profiles for beliefs about religion versus science",
+            "authors": " Metz, S. E., Liquin, E. G., & Lombrozo, T.",
+            "journal": "Cognitive Science",
+            "year": "2023",
+            "abstract": "A growing body of research suggests that scientific and religious beliefs are often held and justified in different ways. In three studies with 707 participants, we examine the distinctive profiles of beliefs in these domains. In Study 1, we find that participants report evidence and explanatory considerations (making sense of things) as dominant reasons for beliefs across domains. However, cuing the religious domain elevates endorsement of nonscientific justifications for belief, such as ethical considerations (e.g., believing it encourages people to be good), affiliation (what loved ones believe), and intuition (what feels true in one's heart). Study 2 replicates these differences with specific scientific and religious beliefs held with equal confidence, and documents further domain differences in beliefs' personal importance, openness to revision, and perceived objectivity. Study 3 replicates these differences, further finding that counter-consensus beliefs about contentious science topics (such as climate change and vaccination) often have properties resembling religious beliefs, while counter-religious beliefs about religion (e.g., “There is no God”) have properties that more closely resemble beliefs about science. We suggest that beliefs are held and justified within coherent epistemic frameworks, with individuals using different frameworks in different contexts and domains.",
+            "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13370",
+            "links":[
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13370"
+                }
+            ],
+            "full_citation": "Metz, S. E., Liquin, E. G., & Lombrozo, T. (2023). Distinct profiles for beliefs about religion versus science. <i>Cognitive Science, 47</i>(11), e13370."
+           },
             {
             "title":  "Teaching and learning through pedagogical environment design",
             "authors": "Liquin, E. G., Luzuriaga, N. & Gureckis, T. M.",
