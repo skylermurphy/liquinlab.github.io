@@ -30,7 +30,7 @@ const ExpandRa = function(){
             Join us!
         </div>
       <div class="block has-text-left is-size-custom">
-        Thank you for your interest in joining the lab! This page provides information about what we're looking for and how to apply. Click below to learn more about opportunities for PhD students, postdocs, lab managers, and undergraduate research assistants.
+        Thank you for your interest in joining the lab! This page provides information about what we're looking for and how to apply. Click below to learn more about opportunities for PhD students, postdocs, and undergraduate research assistants.
       </div>
       <div class="block has-text-left is-size-custom">
           You're welcome to contact me (<a href="mailto:emily.liquin@nyu.edu">emily.liquin@nyu.edu</a>) with any questions about the lab or the application process.
@@ -41,7 +41,7 @@ const ExpandRa = function(){
       <div class="card">
         <header class="card-header is-shadowless" @click="ExpandPhd()">
           <p class="card-header-title is-size-4 has-text-left">
-            Ph.D. students&#8212;currently recruiting!
+            Ph.D. students
           </p>
           <button class="card-header-icon" aria-label="more options">
             <span class="icon">
@@ -52,7 +52,7 @@ const ExpandRa = function(){
         <div v-if="phdExpand" class="card-content">
           <div class="content">
               <div class="block has-text-left is-size-custom has-text-weight-bold">
-                  We are currently accepting applications for PhD students to start in Fall 2024. 
+                  PhD admissions for Fall 2024 have closed. Please check back in late 2024 for information about applying for Fall 2025.
               </div>
               <div class="block has-text-left is-size-custom">
                   I am committed to supporting my PhD mentees in developing their own independent research programs. My goal is to help my mentees pursue their career goals, whether in research, teaching, industry, or elsewhere.
@@ -86,6 +86,9 @@ const ExpandRa = function(){
                   <li>organization and project management</li>
               </ul>
               <i>You don't need to have experience with all of these skills to apply!</i> A big part of your PhD is learning new things, and our lab is committed to helping all lab members develop the skills they need to pursue their research interests.
+            </div>
+            <div class="content has-text-left is-size-custom">
+              Though it is not required, the most competitive applicants have some background in psychology (ideally through coursework and/or research).
             </div>
             <div class="block has-text-left is-size-custom">
                 Each member of our lab plays an integral role in fostering a positive lab culture. 
@@ -141,17 +144,17 @@ const ExpandRa = function(){
           <div class="content">
             <div class="block">
             <div class="has-text-left is-size-custom">
-                We are not currently hiring postdocs. Check back another time, or reach out to me (<a href="mailto:emily.liquin@nyu.edu">emily.liquin@nyu.edu</a>) with any questions.
+                We are not currently hiring postdocs. However, if you're really excited about joining the lab as a postdoc, I'm happy to talk—feel free to reach out (<a href="mailto:emily.liquin@nyu.edu">emily.liquin@nyu.edu</a>).
             </div>
           </div>
         </div>
       </div>
       </div>  
 
-      <br>
+      <!-- <br> -->
 
 
-      <div class="card">
+      <!-- <div class="card">
         <header class="card-header  is-shadowless" @click="ExpandLabman()">
           <p class="card-header-title is-size-4  has-text-left">
             Lab managers
@@ -171,7 +174,7 @@ const ExpandRa = function(){
           </div>
         </div>
       </div>
-      </div>  
+      </div>   -->
 
 <br>
 
@@ -190,7 +193,7 @@ const ExpandRa = function(){
           <div class="content">
             <div class="block">
             <div class="has-text-left is-size-custom">
-                We will be hiring undergraduate research assistants in Fall 2024. Please check back then! 
+                We are currently recruiting undergraduate research assistants for Fall 2024. Please <a href="https://forms.gle/Gt1wiNngxGScc5ka7">fill out this form</a> if you are interested in joining the lab. We reveiw applications on a rolling basis.
             </div>
           </div>
         </div>

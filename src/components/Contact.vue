@@ -13,6 +13,9 @@
         <div>
             Twitter: <a href="https://twitter.com/emilyliquin">@emilyliquin</a>
         </div>
+        <div>
+            Bluesky: <a href="https://bsky.app/profile/emilyliquin.bsky.social">@emilyliquin.bsky.social</a>
+        </div>
     </div>
 
 </template>
