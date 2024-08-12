@@ -193,7 +193,7 @@ const ExpandRa = function(){
           <div class="content">
             <div class="block">
             <div class="has-text-left is-size-custom">
-                We are currently recruiting undergraduate research assistants for Fall 2024. Please <a href="https://forms.gle/Gt1wiNngxGScc5ka7">fill out this form</a> if you are interested in joining the lab. We reveiw applications on a rolling basis.
+                We are currently recruiting undergraduate research assistants for Fall 2024. Please <a href="https://forms.gle/Prikde86ZCHb7yNs9">fill out this form</a> if you are interested in joining the lab. We reveiw applications on a rolling basis.
             </div>
           </div>
         </div>
