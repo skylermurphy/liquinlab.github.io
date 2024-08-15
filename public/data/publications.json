@@ -1,6 +1,51 @@
 {
     "peer-reviewed": [
         {
+        "title":  "Reuse and remixing in question asking across development.",
+        "authors": "Liquin, E. G., Rhodes, M. & Gureckis, T. M.",
+        "journal": "Proceedings of the 46th Annual Conference of the Cognitive Science Society",
+        "year": "2024",
+        "abstract": "Question asking is a key tool for learning, especially in childhood. However, formulating good questions is challenging. In any given situation, many questions are possible but only few are informative. In the present work, we investigate two ways 5- to 10-year-olds and adults simplify the challenge of formulating questions: by reusing previous questions, and by remixing components of previous questions to form new questions. Our experimental results suggest that children and adults reuse and remix questions and adaptively modulate reuse depending on how informative a question will be in a particular situation. This work shows that task-relevant experience asking questions provides fodder for future questions, simplifying the challenge of inquiry and enabling effective learning.",
+        "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "link",
+                "url": "https://escholarship.org/uc/item/5vb4s3z5"
+            },
+            {
+                "name": "OSF",
+                "url": "https://osf.io/4khr9/"
+            },
+            {
+                "name": "task demo",
+                "url": "https://exps.gureckislab.org/emilyliquin/baby-battleship-kids/kid-questionexposure-presentation/#/"
+            }
+        ],
+        "full_citation": "Liquin, E. G., Rhodes, M, & Gureckis, T. M. (2024). Reuse and remixing in question asking across development. In L. K. Samuelson, S. Frank, M. Toneva, A. Mackey & E. Hazeltine (Eds.) <i>Proceedings of the 46th Annual Conference of the Cognitive Science Society</i> (pp. 1137-1144). Cognitive Science Society."
+       },
+        {
+            "title":  "Breaking down (and moving beyond) novelty as a trigger of curiosity. Commentary on Ivancovsky, Baror, & Bar.",
+            "authors": "Liquin, E. G., & Lombrozo, T.",
+            "journal": "Behavioral and Brain Sciences",
+            "year": "2024",
+            "abstract": "The Novelty Seeking Model (NSM) places “novelty” at center stage in characterizing the mechanisms behind curiosity. We argue that the NSM's conception of novelty is too broad, obscuring distinct constructs. More critically, the NSM underemphasizes triggers of curiosity that better unify these constructs and that have received stronger empirical support: those that signal the potential for useful learning.",
+            "link": "https://doi.org/10.1017/S0140525X23003333",
+            "links":[
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "link",
+                    "url": "https://doi.org/10.1017/S0140525X23003333"
+                }
+            ],
+            "full_citation": "Liquin, E. G. & Lombrozo, T. (2024). Breaking down (and moving beyond) novelty as a trigger of curiosity. Commentary on Ivancovsky, Baror & Bar. <i>Behavioral and Brain Sciences, 47</i>, e106."
+           },
+        {
             "title":  "Distinct profiles for beliefs about religion versus science",
             "authors": " Metz, S. E., Liquin, E. G., & Lombrozo, T.",
             "journal": "Cognitive Science",
@@ -380,7 +425,28 @@
            
     ],
     "preprints" : [
+        {
+            "title":  "Seeking new information with old questions: Children and adults reuse and remix concepts from prior questions.",
+            "authors": "Liquin, E. G., Rhodes, M. & Gureckis, T. M.",
+            "status": "under review",
+            "abstract": "Question asking is a key tool for learning about the world, especially in childhood. However, formulating good questions is challenging. In any given situation, many questions are possible but only few are informative. In the present work, we investigate two ways 5- to 10-year-olds and adults simplify the challenge of formulating questions: by reusing previous questions, and by remixing components of previous questions to form new questions. In Study 1, we develop a new question asking task, verify its suitability for studying question asking in children and adults, and conduct a preliminary investigation of how children and adults reuse and remix their own prior questions. In Study 2, we experimentally manipulate exposure to another person's questions, investigating under what conditions children and adults reuse and remix others' questions. Our experimental results suggest that both children and adults reuse and remix questions, and they adaptively modulate reuse depending on how informative a question will be in a particular situation. Moreover, children reuse prior questions more frequently than adults in some cases. This work shows that prior questions provide fodder for future questions, simplifying the challenge of inquiry and enabling effective learning.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "preprint",
+                    "url": "https://osf.io/preprints/psyarxiv/4gtrz"
+                },
+                {
+                    "name": "OSF",
+                    "url": "https://osf.io/r3usj/"
+                }
+            ],
+            "full_citation": "Liquin, E. G., Rhodes, M. & Gureckis, T. M. (under review). Seeking new information with old questions: Children and adults reuse and remix concepts from prior questions."
 
+           }
     ]
         
 }
