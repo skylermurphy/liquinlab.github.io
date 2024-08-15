@@ -33,7 +33,7 @@ const ExpandRa = function(){
         Thank you for your interest in joining the lab! This page provides information about what we're looking for and how to apply. Click below to learn more about opportunities for PhD students, postdocs, and undergraduate research assistants.
       </div>
       <div class="block has-text-left is-size-custom">
-          You're welcome to contact me (<a href="mailto:emily.liquin@nyu.edu">emily.liquin@nyu.edu</a>) with any questions about the lab or the application process.
+          You're welcome to contact me (<a href="mailto:emily.liquin@unh.edu">emily.liquin@unh.edu</a>) with any questions about the lab or the application process.
         </div>
 
       <hr>
@@ -144,7 +144,7 @@ const ExpandRa = function(){
           <div class="content">
             <div class="block">
             <div class="has-text-left is-size-custom">
-                We are not currently hiring postdocs. However, if you're really excited about joining the lab as a postdoc, I'm happy to talk—feel free to reach out (<a href="mailto:emily.liquin@nyu.edu">emily.liquin@nyu.edu</a>).
+                We are not currently hiring postdocs. However, if you're really excited about joining the lab as a postdoc, I'm happy to talk—feel free to reach out (<a href="mailto:emily.liquin@unh.edu">emily.liquin@unh.edu</a>).
             </div>
           </div>
         </div>
@@ -169,7 +169,7 @@ const ExpandRa = function(){
           <div class="content">
             <div class="block">
             <div class="has-text-left is-size-custom">
-                We are not currently hiring a lab manager. Check back another time, or reach out to me (<a href="mailto:emily.liquin@nyu.edu">emily.liquin@nyu.edu</a>) with any questions.
+                We are not currently hiring a lab manager. Check back another time, or reach out to me (<a href="mailto:emily.liquin@unh.edu">emily.liquin@unh.edu</a>) with any questions.
             </div>
           </div>
         </div>

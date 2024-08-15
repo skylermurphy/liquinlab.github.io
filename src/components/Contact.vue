@@ -8,7 +8,7 @@
         </div> -->
 
         <div>
-            Email: <a href="mailto:emily.liquin@nyu.edu">emily.liquin@nyu.edu</a>
+            Email: <a href="mailto:emily.liquin@unh.edu">emily.liquin@unh.edu</a>
         </div>
         <div>
             Twitter: <a href="https://twitter.com/emilyliquin">@emilyliquin</a>
