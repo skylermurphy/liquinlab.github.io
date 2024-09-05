@@ -2,7 +2,7 @@
     "people": [
         {
             "name": "Emily Liquin",
-            "bio": "I am the Principal Investigator of the ELM Lab, and an incoming Assistant Professor in the University of New Hampshire Department of Psychology (starting Fall 2024). I'm interested in understanding how people control their own learning by being curious, asking questions, and exploring. Outside of the lab, I enjoy hiking, reading, and trying new cookie recipes.",
+            "bio": "Emily is the Principal Investigator of the ELM Lab, and an Assistant Professor in the University of New Hampshire Department of Psychology. She is interested in understanding how people control their own learning by being curious, asking questions, and exploring. Outside of the lab, she enjoys hiking, reading, and trying new cookie recipes.",
             "img": "EL_square.png",
             "links": [
                 {
@@ -25,8 +25,20 @@
 
         },
         {
+            "name": "Madeline Klotz",
+            "bio": "Madeline is a first-year PhD student in the ELM lab. She is most interested in researching what triggers us to be curious and how we can spark more playfulness in adults. When she’s not in the lab, she enjoys meditating, hosting dinner parties and finding local swimming holes.",
+            "img": "MadelineKlotz.jpg",
+            "links": [
+                {
+                    "name": "email",
+                    "url": "mailto:madeline.klotz@unh.edu"
+                }
+            ]
+
+        },
+        {
             "name": "You?",
-            "bio": "We are accepting applications for PhD students for Fall 2024! If you are interested in joining the lab, please <a href='/join'>visit this page</a> for more information.",
+            "bio": "We are accepting applications for PhD students for Fall 2025! If you are interested in joining the lab, please <a href='/join'>visit this page</a> for more information.",
             "img": "anonymous.png",
             "links": [
             ]
