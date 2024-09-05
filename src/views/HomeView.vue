@@ -17,7 +17,7 @@ import News from "../components/News.vue";
             </section> -->
     <br>
             <p class="block title is-size-4">
-                The ELM Lab will be opening its doors at the University of New Hampshire in Fall 2024!
+                Welcome to the ELM Lab!
             </p>
             <br>
             <div class="block">

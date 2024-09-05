@@ -52,7 +52,7 @@ const ExpandRa = function(){
         <div v-if="phdExpand" class="card-content">
           <div class="content">
               <div class="block has-text-left is-size-custom has-text-weight-bold">
-                  PhD admissions for Fall 2024 have closed. Please check back in late 2024 for information about applying for Fall 2025.
+                  I will be reviewing applications for PhD students to start in Fall 2025.
               </div>
               <div class="block has-text-left is-size-custom">
                   I am committed to supporting my PhD mentees in developing their own independent research programs. My goal is to help my mentees pursue their career goals, whether in research, teaching, industry, or elsewhere.
@@ -193,7 +193,7 @@ const ExpandRa = function(){
           <div class="content">
             <div class="block">
             <div class="has-text-left is-size-custom">
-                We are currently recruiting undergraduate research assistants for Fall 2024. Please <a href="https://forms.gle/Prikde86ZCHb7yNs9">fill out this form</a> if you are interested in joining the lab. We reveiw applications on a rolling basis.
+                We recruit undergraduate research assistants on a rolling basis as spaces open up. Please <a href="https://forms.gle/Prikde86ZCHb7yNs9">fill out this form</a> if you are interested in joining the lab. 
             </div>
           </div>
         </div>
