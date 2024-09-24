@@ -1,5 +1,5 @@
 <script setup>
-import {reactive} from 'vue';
+import {reactive, onMounted} from 'vue';
 import oboe from 'oboe'; // ajax support
 
 
@@ -8,6 +8,25 @@ const people = reactive({individuals: []});
 
 oboe('/data/people.json?nocache=' + (new Date()).getTime())  // don't cache the json file
   .node('people.*', (entry) => {
+
+
+    // if type is PI, set to Principal Investigator
+    if (entry.type === "PI"){
+      entry.type = "Principal Investigator";
+    }
+        // if type is grad student, set to Graduate Students
+    if (entry.type === "Grad Student"){
+      entry.type = "Graduate Students";
+    }
+    // if type is RA, set to Research Assistants
+    if (entry.type === "RA"){
+      entry.type = "Research Assistants";
+    }
+
+    // if this is the first entry of a particular category, set first to true
+    const first = people.individuals.filter(p => p.type === entry.type).length === 0;
+    entry["first"] = first;
+    
     people.individuals.push(entry);
   })
 
@@ -21,8 +40,12 @@ oboe('/data/people.json?nocache=' + (new Date()).getTime())  // don't cache the 
             People
       </div>
 
+
         <div v-for="i in people.individuals" class="has-text-left is-size-custom">
-          <div class="card is-shadowless">
+          <div v-if="i.first" class = "is-size-4 is-underlined has-text-weight-bold has-text-left">
+                {{ i.type }}
+          </div>
+          <div class="card">
             <div class="card-content">
                     <div class="columns">
                         <div class="column is-narrow">
@@ -35,20 +58,19 @@ oboe('/data/people.json?nocache=' + (new Date()).getTime())  // don't cache the 
                         <div class="column">
                           <div class="media-left">
 
-                          <p class="title has-text-left is-4">{{ i.name }}</p>
+                          <p class="title has-text-left is-5">{{ i.name }}</p>
                           <div class="content has-text-left is-size-custom">
                               <span v-html="i.bio"></span>
-                            </div>
+                          </div>
                             <div class="linkcontainer">
                                 <a v-for="link in i.links" class="tag is-size-6" :href="link.url" target="_blank">{{ link.name }}</a>
                             </div>
-
                             </div>
                         </div>
                     </div> 
                   </div>
             </div>
-            <hr>
+            <br>
         </div>
 
 
@@ -75,7 +97,7 @@ oboe('/data/people.json?nocache=' + (new Date()).getTime())  // don't cache the 
 
 .card {
   height: max-content;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   width: 100%;
 }
 
@@ -101,7 +123,7 @@ oboe('/data/people.json?nocache=' + (new Date()).getTime())  // don't cache the 
 }
 
 .is-size-custom{
-  font-size: 1.15rem
+  font-size: 1rem
 }
 
 </style>
