@@ -26,6 +26,19 @@
 
         },
         {
+            "name": "Lyra Joson",
+            "type": "Lab Manager",
+            "bio": "Lyra Joson is the lab manager of ELM Lab and a proud alumnus of the University of New Hampshire, where she pursued a double major in Psychology and Linguistics. Her academic interests lie in psycholinguistics, exploring the fascinating intersection of language and cognitive processes. Passionate about research, she is dedicated to understanding how people acquire, process, and use language. Outside the lab, she enjoys solving Rubik's cubes, playing video games, spending time with her cats, and reading books.",
+            "img": "LyraJoson.jpeg",
+            "links": [
+                {
+                    "name": "email",
+                    "url": "mailto:lyra.joson@unh.edu"
+                }
+            ]
+
+        },
+        {
             "name": "Madeline Klotz",
             "type": "Grad Student",
             "bio": "Madeline is a first-year PhD student in the ELM lab. She is most interested in researching what triggers us to be curious and how we can spark more playfulness in adults. When she’s not in the lab, she enjoys meditating, hosting dinner parties and finding local swimming holes.",
