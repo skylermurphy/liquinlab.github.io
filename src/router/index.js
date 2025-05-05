@@ -5,6 +5,7 @@ import PeopleView from "../views/PeopleView.vue";
 import PublicationsView from "../views/PublicationsView.vue";
 import JoinView from "../views/JoinView.vue";
 import ContactView from "../views/ContactView.vue";
+import ParentView from "../views/ForParents.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -49,6 +50,11 @@ const router = createRouter({
       name: "contact",
       component: ContactView,
     },
+    // {
+    //   path: "/forparents",
+    //   name: "parents",
+    //   component: ParentView,
+    // },
   ],
   scrollBehavior(to, from, savedPosition) {
     // always scroll to top

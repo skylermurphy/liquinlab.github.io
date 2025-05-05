@@ -52,7 +52,7 @@ const ExpandRa = function(){
         <div v-if="phdExpand" class="card-content">
           <div class="content">
               <div class="block has-text-left is-size-custom has-text-weight-bold">
-                  I will be reviewing applications for PhD students to start in Fall 2025.
+                  I will be reviewing applications for PhD students to start in Fall 2026.
               </div>
               <div class="block has-text-left is-size-custom">
                   I am committed to supporting my PhD mentees in developing their own independent research programs. My goal is to help my mentees pursue their career goals, whether in research, teaching, industry, or elsewhere.
@@ -75,7 +75,7 @@ const ExpandRa = function(){
               Being able to articulate your research interests (and how they fit with the lab's research program) is an important part of your application.
             </div>
 
-            <div class="content has-text-left is-size-custom">
+            <!-- <div class="content has-text-left is-size-custom">
               Research in our lab draws on a variety of skills. It's helpful if you already have experience with at least some of the following:
               <ul>
                   <li>experiment design</li>
@@ -86,9 +86,9 @@ const ExpandRa = function(){
                   <li>organization and project management</li>
               </ul>
               <i>You don't need to have experience with all of these skills to apply!</i> A big part of your PhD is learning new things, and our lab is committed to helping all lab members develop the skills they need to pursue their research interests.
-            </div>
+            </div> -->
             <div class="content has-text-left is-size-custom">
-              Though it is not required, the most competitive applicants have some background in psychology (ideally through coursework and/or research).
+              Though it is not required, the most competitive applicants have some background in psychology (ideally through coursework and/or research). In your application, be sure to highlight relevant research experience, coursework, and skills that you believe will help you succeed in graduate school.
             </div>
             <div class="block has-text-left is-size-custom">
                 Each member of our lab plays an integral role in fostering a positive lab culture. 

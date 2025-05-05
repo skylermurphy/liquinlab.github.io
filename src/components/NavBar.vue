@@ -1,12 +1,11 @@
 <script setup>
 import { computed, ref } from "vue";
-import { useRouter, useRoute  } from 'vue-router'
+import { useRouter, useRoute } from "vue-router";
 
 const showNav = ref(false);
 
 const router = useRouter();
 const route = useRoute();
-
 
 function menuAction(path) {
   router.push(path);
@@ -18,77 +17,100 @@ const computedRoute = computed(() => route.path);
 function isRouteActive(path) {
   return computedRoute.value === path;
 }
-
 </script>
 
 <template>
-    
-<nav class="navbar is-size-5" role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a class="navbar-item is-lab-name" @click="menuAction('/')">
-      <!-- <img src="../assets/treeicon-big.png" alt="logo" /> -->
-      <div v-if="route.path != '/'" class="content is-size-4 label">
-        ELM Lab
-      </div>
-      
-    </a>
+  <nav class="navbar is-size-5" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item is-lab-name" @click="menuAction('/')">
+        <!-- <img src="../assets/treeicon-big.png" alt="logo" /> -->
+        <div v-if="route.path != '/'" class="content is-size-4 label">
+          ELM Lab
+        </div>
+      </a>
 
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" :class="{ 'is-active': showNav }" @click="showNav = !showNav">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
-
-  <div id="navbarBasicExample" class="navbar-menu" :class="{ 'is-active': showNav }">
-    <div class="navbar-start">
-      
-
-
-
+      <a
+        role="button"
+        class="navbar-burger"
+        aria-label="menu"
+        aria-expanded="false"
+        data-target="navbarBasicExample"
+        :class="{ 'is-active': showNav }"
+        @click="showNav = !showNav"
+      >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
     </div>
 
-    <div class="navbar-end">
-      <a class="navbar-item is-tab" @click="menuAction('/')" :class="{ 'is-selected': isRouteActive('/') }" >
-        Home
-      </a>
+    <div
+      id="navbarBasicExample"
+      class="navbar-menu"
+      :class="{ 'is-active': showNav }"
+    >
+      <div class="navbar-start"></div>
 
-      <a class="navbar-item is-tab" @click="menuAction('/about')" :class="{ 'is-selected': isRouteActive('/about') }" >
-        About      
-      </a>
+      <div class="navbar-end">
+        <a
+          class="navbar-item is-tab"
+          @click="menuAction('/')"
+          :class="{ 'is-selected': isRouteActive('/') }"
+        >
+          Home
+        </a>
 
-      <a class="navbar-item is-tab" @click="menuAction('/people')" :class="{ 'is-selected': isRouteActive('/people') }" >
-        People
-      </a>
+        <a
+          class="navbar-item is-tab"
+          @click="menuAction('/about')"
+          :class="{ 'is-selected': isRouteActive('/about') }"
+        >
+          About
+        </a>
 
-      <a class="navbar-item is-tab" @click="menuAction('/publications')" :class="{ 'is-selected': isRouteActive('/publications') }" >
-        Publications
-      </a>
+        <a
+          class="navbar-item is-tab"
+          @click="menuAction('/people')"
+          :class="{ 'is-selected': isRouteActive('/people') }"
+        >
+          People
+        </a>
 
-      <a class="navbar-item is-tab" @click="menuAction('/join')" :class="{ 'is-selected': isRouteActive('/join') }" >
-        Join the lab
-      </a>
+        <a
+          class="navbar-item is-tab"
+          @click="menuAction('/publications')"
+          :class="{ 'is-selected': isRouteActive('/publications') }"
+        >
+          Publications
+        </a>
+        <!-- <a
+          class="navbar-item is-tab"
+          @click="menuAction('/forparents')"
+          :class="{ 'is-selected': isRouteActive('/forparents') }"
+        >
+          For Parents
+        </a> -->
+        <a
+          class="navbar-item is-tab"
+          @click="menuAction('/join')"
+          :class="{ 'is-selected': isRouteActive('/join') }"
+        >
+          Join the Lab
+        </a>
 
-      <!-- <a class="navbar-item is-tab" @click="menuAction('/contact')" :class="{ 'is-selected': isRouteActive('/contact') }" >
+        <!-- <a class="navbar-item is-tab" @click="menuAction('/contact')" :class="{ 'is-selected': isRouteActive('/contact') }" >
         Contact
       </a> -->
+      </div>
+    </div>
+  </nav>
 
+  <div class="container1"></div>
+  <div class="container2"></div>
 
-    </div> 
-
-  </div>
-</nav>
-
-<div class="container1">
-</div>
-<div class="container2">
-</div>
-  
-<!-- <section v-if="route.path != '/'" class="hero">
+  <!-- <section v-if="route.path != '/'" class="hero">
   <img class="image" src="../assets/pattern_line.png" alt="banner" />
 </section> -->
-
-
 </template>
 
 <style scoped>
@@ -98,7 +120,6 @@ function isRouteActive(path) {
   top: 0;
   z-index: 1;
 }
-
 
 .navbar-item {
   padding: 0.5rem 1rem;
@@ -118,9 +139,8 @@ function isRouteActive(path) {
   border-top: var(--main-green) 2px solid;
 }
 
-.label{
+.label {
   color: var(--main-green);
   font-weight: bold;
 }
-
 </style>
