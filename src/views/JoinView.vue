@@ -69,10 +69,10 @@ const ExpandRa = function(){
             </div>
 
             <div class="block has-text-left is-size-custom">
-              Strong applicants to the lab have research interests that are a good fit with the lab's <router-link to="/about">research program</router-link>. 
+              Strong applicants to the lab have high-quality research experience and research interests that are a good fit with the lab's <router-link to="/about">research program</router-link>. 
               We're excited to take our research into new directions, so we're open to a wide range of interests within cognitive and developmental psychology.
               However, most projects in our lab have some connection to learning, discovery, and/or information search.
-              Being able to articulate your research interests (and how they fit with the lab's research program) is an important part of your application.
+              Being able to articulate your research interests (and how they fit with the lab's research program) is an important part of your application. You should also be able to describe your research experience and how it has prepared you for graduate school.
             </div>
 
             <!-- <div class="content has-text-left is-size-custom">
@@ -144,7 +144,7 @@ const ExpandRa = function(){
           <div class="content">
             <div class="block">
             <div class="has-text-left is-size-custom">
-                We are not currently hiring postdocs. However, if you're really excited about joining the lab as a postdoc, I'm happy to talk—feel free to reach out (<a href="mailto:emily.liquin@unh.edu">emily.liquin@unh.edu</a>).
+                We are not actively recruiting postdocs. However, if you're interested in joining the lab as a postdoc and would like to submit an application for funding together (e.g., <a href="https://www.nsf.gov/funding/opportunities/sprf-sbe-postdoctoral-research-fellowships">NSF SPRF</a> or <a href="https://grants.nih.gov/funding/activity-codes/F32">NIH F32</a>), I'm happy to talk—feel free to reach out (<a href="mailto:emily.liquin@unh.edu">emily.liquin@unh.edu</a>).
             </div>
           </div>
         </div>
