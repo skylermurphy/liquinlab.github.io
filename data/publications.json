@@ -1,5 +1,49 @@
 {
     "peer-reviewed": [
+                {
+            "title":  "Seeking new information with old questions: Children and adults reuse and recombine concepts from prior questions.",
+            "authors": "Liquin, E. G., Rhodes, M. & Gureckis, T. M.",
+            "year": "2025",
+            "abstract": "Question asking is a key tool for learning about the world, especially in childhood. However, formulating good questions is challenging. In any given situation, many questions are possible but only few are informative. In the present work, we investigate two ways 5- to 10-year-olds and adults simplify the challenge of formulating questions: by reusing previous questions, and by recombining components of previous questions to form new questions. In Study 1, we develop a new question asking task, verify its suitability for studying question asking in children and adults, and conduct a preliminary investigation of how children and adults reuse and recombine their own prior questions. In Study 2, we experimentally manipulate exposure to another person's questions, investigating under what conditions children and adults reuse and recombine others' questions. Our experimental results suggest that both children and adults reuse and recombine questions, and they adaptively modulate reuse depending on how informative a question will be in a particular situation. Moreover, children reuse and recombine prior questions more frequently than adults in some cases. This work shows that prior questions provide fodder for future questions, simplifying the challenge of inquiry and enabling effective learning.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "preprint",
+                    "url": "https://osf.io/preprints/psyarxiv/4gtrz"
+                },
+                {
+                    "name": "OSF",
+                    "url": "https://osf.io/r3usj/"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/emilyliquin/question-reuse"
+                }
+            ],
+            "full_citation": "Liquin, E. G., Rhodes, M. & Gureckis, T. M. (in press). Seeking new information with old questions: Children and adults reuse and remix concepts from prior questions. <i>Open Mind</i>."
+
+           },
+                           {
+            "title":  "Ease of access to information does not impact curiosity.",
+            "authors": "Liquin, E. G.",
+            "year": "2025",
+            "abstract": "For some learning problems, information is readily available. For others, substantial time and effort is needed to acquire information. The present work tests whether this variation in “information accessibility” affects curiosity. In two experiments, we prompted adult participants to rate their curiosity about the answers to trivia questions. For each trivia question, participants were informed that information accessibility would be high—they would receive the answer with minimal time and effort—or low—they would receive the answer with substantial time and effort. We found that information accessibility affected decisions to seek information, but not self-reported curiosity. This suggests that curiosity is unhindered by the practical costs of information search.",
+            "links": [
+            {
+                "name": "pdf",
+                "url": ""
+            },
+            {
+                "name": "link",
+                "url": "https://escholarship.org/uc/item/5x45g6v6"
+            }
+            ],
+            "full_citation": "Liquin, E. G., (2025). Ease of access to information does not impact curiosity. In A. Ruggeri, D. Barner, C. Walker & N. Bramley (Eds.) <i>Proceedings of the 47th Annual Conference of the Cognitive Science Society</i>. Cognitive Science Society."
+
+           },
         {
         "title":  "Reuse and remixing in question asking across development.",
         "authors": "Liquin, E. G., Rhodes, M. & Gureckis, T. M.",
@@ -425,11 +469,11 @@
            
     ],
     "preprints" : [
-        {
-            "title":  "Seeking new information with old questions: Children and adults reuse and remix concepts from prior questions.",
-            "authors": "Liquin, E. G., Rhodes, M. & Gureckis, T. M.",
+                {
+            "title":  "A computational approach to disentangling the triggers of curiosity in children and adults.",
+            "authors": "Liquin, E. G., Callaway, F., Lewry, C., & Lombrozo, T.",
             "status": "under review",
-            "abstract": "Question asking is a key tool for learning about the world, especially in childhood. However, formulating good questions is challenging. In any given situation, many questions are possible but only few are informative. In the present work, we investigate two ways 5- to 10-year-olds and adults simplify the challenge of formulating questions: by reusing previous questions, and by remixing components of previous questions to form new questions. In Study 1, we develop a new question asking task, verify its suitability for studying question asking in children and adults, and conduct a preliminary investigation of how children and adults reuse and remix their own prior questions. In Study 2, we experimentally manipulate exposure to another person's questions, investigating under what conditions children and adults reuse and remix others' questions. Our experimental results suggest that both children and adults reuse and remix questions, and they adaptively modulate reuse depending on how informative a question will be in a particular situation. Moreover, children reuse prior questions more frequently than adults in some cases. This work shows that prior questions provide fodder for future questions, simplifying the challenge of inquiry and enabling effective learning.",
+            "abstract": "If curiosity is the engine of learning, what does it direct agents to learn? The present research investigates what kinds of situations spark curiosity. Using a Bayesian computational model applied to a modified multi-armed bandit task, we investigated the correspondence between optimal triggers of curiosity (those that maximize learning potential), heuristic triggers of curiosity (surprise and uncertainty), and participants’ reported curiosity. In Studies 1-2 (N = 848), we found that adults’ curiosity was most sensitive to “local” learning potential (the extent to which information would shed light on the immediate target of curiosity). Curiosity was less sensitive to “global” learning potential (the extent to which information would contribute to broader learning goals), uncertainty, or surprise. Study 3 (N = 310) showed that curiosity’s sensitivity to local learning potential strengthened between ages 5 to 9 years and adulthood. Together, these studies suggest that curiosity tracks opportunities for learning, especially those that support learning about immediate targets of curiosity rather than broader learning goals.",
             "links": [
                 {
                     "name": "pdf",
@@ -437,16 +481,39 @@
                 },
                 {
                     "name": "preprint",
-                    "url": "https://osf.io/preprints/psyarxiv/4gtrz"
+                    "url": "https://osf.io/preprints/psyarxiv/tp5ce"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/emilyliquin/disentangling-curiosity-triggers"
+                }
+            ],
+            "full_citation": "Liquin, E. G., Callaway, F., Lewry, C., & Lombrozo, T. (under review). A computational approach to disentangling the triggers of curiosity in children and adults."
+
+           },
+        {
+            "title":  "More time and effort, same curiosity: Information accessibility does not impact curiosity.",
+            "authors": "Liquin, E. G.",
+            "status": "under review",
+            "abstract": "For some learning problems, information is readily available with minimal time and effort. For other learning problems, substantial time and effort is needed to gain information. Recent accounts of curiosity have suggested that curiosity should be highest when learning is likely to occur and likely to be rapid. This suggests that variation in “information accessibility” might affect curiosity—dampening curiosity when information is unlikely to be gained rapidly or easily. We tested this hypothesis in three experiments with a total of 419 participants. In Experiments 1 and 2, we prompted adult participants to rate their curiosity about the answers to trivia questions. For each trivia question, they were informed that information accessibility would be high—they would receive the answer with minimal time and effort—or low—they would receive the answer with substantial time and effort. In Experiment 3, we additionally varied the probability that information search would be successful. Across studies, we found that information accessibility affected decisions to seek information, but not self-reported curiosity. This suggests that curiosity is unhindered by the practical costs of information search.",
+            "links": [
+                {
+                    "name": "pdf",
+                    "url": ""
+                },
+                {
+                    "name": "preprint",
+                    "url": "https://osf.io/preprints/psyarxiv/bceq7"
                 },
                 {
                     "name": "OSF",
-                    "url": "https://osf.io/r3usj/"
+                    "url": "https://osf.io/js7x2/"
                 }
             ],
-            "full_citation": "Liquin, E. G., Rhodes, M. & Gureckis, T. M. (under review). Seeking new information with old questions: Children and adults reuse and remix concepts from prior questions."
+            "full_citation": "Liquin, E. G. (under review). More time and effort, same curiosity: Information accessibility does not impact curiosity."
 
            }
+
     ]
         
 }
