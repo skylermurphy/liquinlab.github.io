@@ -15,20 +15,19 @@ const router = createRouter({
       name: "home",
       component: HomeView,
       beforeEnter: (to, from, next) => {
-        if (sessionStorage.getItem('redirect') !== null) {
-          const redirect = sessionStorage.redirect
-          delete sessionStorage.redirect
-          next(redirect)
+        if (sessionStorage.getItem("redirect") !== null) {
+          const redirect = sessionStorage.redirect;
+          delete sessionStorage.redirect;
+          next(redirect);
         } else {
-          next()
+          next();
         }
-      }
+      },
     },
     {
       path: "/about",
       name: "about",
       component: AboutView,
-
     },
     {
       path: "/people",
@@ -58,7 +57,7 @@ const router = createRouter({
   ],
   scrollBehavior(to, from, savedPosition) {
     // always scroll to top
-    return { top: 0 }
+    return { top: 0 };
   },
 });
 
