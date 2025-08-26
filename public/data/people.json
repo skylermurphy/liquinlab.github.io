@@ -26,17 +26,16 @@
 
         },
         {
-            "name": "Lyra Joson",
+            "name": "Skyler Murphy",
             "type": "Lab Manager",
-            "bio": "Lyra Joson is the lab manager of ELM Lab and a proud alumnus of the University of New Hampshire, where she pursued a double major in Psychology and Linguistics. Her academic interests lie in psycholinguistics, exploring the fascinating intersection of language and cognitive processes. Passionate about research, she is dedicated to understanding how people acquire, process, and use language. Outside the lab, she enjoys solving Rubik's cubes, playing video games, spending time with her cats, and reading books.",
-            "img": "LyraJoson.jpeg",
+            "bio": "Skye is a senior majoring in Psychology at the University of New Hampshire. She is from Connecticut and enjoys spending her time reading, hammocking, and Djing for WUNH. Skye is excited to gain experience within the psychology field through this lab that will aid her in her future endeavors.",
+            "img": "SkylerMurphy.png",
             "links": [
                 {
                     "name": "email",
-                    "url": "mailto:lyra.joson@unh.edu"
+                    "url": "mailto:skyler.murphy@unh.edu"
                 }
             ]
-
         },
         {
             "name": "Madeline Klotz",
@@ -81,12 +80,7 @@
             "bio": "Tucker is a senior in Psychology at UNH with a minor in music. He grew up In Dover, NH, where he had a heavy presence in the schools’ music departments playing the trumpet and clarinet. His involvement in music at UNH is in jazz guitar. He is particularly interested in personality, social, and developmental aspects of psychology; His career goal is to teach psychology at the college level.",
             "img": "TuckerLane.png"
         },
-        {
-            "name": "Skyler Murphy",
-            "type": "RA",
-            "bio": "Skye is a junior majoring in Psychology at the University of New Hampshire. She is from Connecticut and enjoys spending her time reading, hammocking, and Djing for WUNH. Skye is excited to gain experience within the psychology field through this lab that will aid her in her future endeavors.",
-            "img": "SkylerMurphy.png"
-        },
+
         {
             "name": "Sydney Staples",
             "type": "RA",
